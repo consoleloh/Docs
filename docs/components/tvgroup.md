@@ -4,6 +4,7 @@ description: Несколько полей в одном TV-значении (JS
 categories: utilities
 author: consoleloh
 modstore: https://modstore.pro/packages/utilities/tvgroup
+logo: https://modstore.pro/assets/extras/tvgroup/logo.png
 ---
 
 # TVGroup

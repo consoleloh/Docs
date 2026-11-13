@@ -4,6 +4,7 @@ description: Multiple fields in a single TV value (JSON) with conditional displa
 categories: utilities
 author: consoleloh
 modstore: https://modstore.pro/packages/utilities/tvgroup
+logo: https://modstore.pro/assets/extras/tvgroup/logo.png
 ---
 
 # TVGroup
